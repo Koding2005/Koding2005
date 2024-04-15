@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Koding2005.
+- 👀 I’m interested in learn differential equations.
+- 🌱 I’m currently learning numerical methods.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me juanesteban.l2005@gmail.com.
+- ⚡ Fun fact: my favorite color is the brown.
